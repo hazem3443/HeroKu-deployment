@@ -3,8 +3,8 @@
 <h3/>this code is a simple book mark service :mount_fuji: on a public use so anyone can write his own bookmark name and enter the URI:sheep: and this service will save this bookmark so any one can access it from this page </h3> :sunrise_over_mountains:(https://hazemka-led.herokuapp.com)
 :sunrise_over_mountains:
 <h3/>:scissors:this code is provided as is.</h3>
-<h2/>this Github repository :european_castle: is connected to HeroKu deployment service that contain this app on their server</h2> :cn:
-for this deployment to be successful:tea: you need to create 3 files with specified extention you will find more details on Heroku website :loudspeaker:just google it.:cn:
+<h2/>this Github repository :european_castle: is connected to HeroKu deployment service that contain this app on their server</h2>
+for this deployment to be successful:tea: you need to create 3 files with specified extention you will find more details on Heroku website :loudspeaker:just google it.
 here these files are Procfile ,requirements,txt & runtime.txt 
 and the Pyhton code is contained in ***BookmarkServer.py*** file :meat_on_bone:
 
